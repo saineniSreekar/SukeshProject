@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SmartManager</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">App Monitor</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="task_reminder">Task Reminder</string>
+</resources>
